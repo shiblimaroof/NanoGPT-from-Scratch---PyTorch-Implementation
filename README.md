@@ -68,3 +68,12 @@ step 5000:  train loss 7.9628,  val loss 7.9739
 step 10000: train loss 5.9162,  val loss 5.9487
 step 19999: train loss 3.9739,  val loss 4.0487
 
+
+📜 License
+
+This project is licensed under the MIT License – feel free to use, modify, and distribute.
+
+Credits
+
+This project is inspired by the excellent work of Andrej Karpathy.
+
