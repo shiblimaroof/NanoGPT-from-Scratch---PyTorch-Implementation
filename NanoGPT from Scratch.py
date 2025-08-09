@@ -9,6 +9,7 @@ max_iters = 20000
 eval_interval = 1000
 learning_rate = 3e-4
 device = 'mps' if torch.backends.mps.is_available() else 'cpu'  # use M1 GPU
+# device = 'cuda' if torch.cuda.is_available() else 'cpu' # if you have cuda
 eval_iters = 200
 n_embd = 512
 n_head = 8
