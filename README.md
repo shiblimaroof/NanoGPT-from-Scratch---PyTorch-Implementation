@@ -21,7 +21,7 @@ It includes:
 📂 Project Structure
 
   📁 NanoGPT-From-Scratch
-│── Nano_GPT.py               # Jupyter Notebook with complete implementation
+│── Nano_GPT.py               
 │── input.txt                  # Training dataset (Tiny Shakespeare or other text)
 
 How It Works
